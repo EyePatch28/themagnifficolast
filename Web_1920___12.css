@@ -1,0 +1,272 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 12;
+	--web-view-id: Web_1920__12;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__12;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__12 {
+	position: absolute;
+	width: 1830px;
+	height: 1218px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 12;
+	--web-view-id: Web_1920__12;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_39745_js {
+	position: absolute;
+	width: 1895px;
+	height: 98.07px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_39743_jt {
+	position: absolute;
+	width: 1895px;
+	height: 98.07px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1_ju {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_ju {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1913px;
+	height: 116.07px;
+	left: 0px;
+	top: 0px;
+}
+#Group_39764_jv {
+	position: absolute;
+	width: 273.955px;
+	height: 59.694px;
+	left: 81.971px;
+	top: 15.684px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___11.html;
+	cursor: pointer;
+}
+#The_Magniffico_jw {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 73.955px;
+	top: 13.465px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+#n_0220205_174839_jx {
+	position: absolute;
+	width: 59.694px;
+	height: 59.694px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Line_8_jy {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_jy {
+	overflow: visible;
+	position: absolute;
+	width: 313px;
+	height: 1px;
+	left: 180px;
+	top: 238px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#How_to_Apply {
+	left: 108px;
+	top: 160px;
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#check {
+	position: absolute;
+	width: 110px;
+	height: 110px;
+	left: 80px;
+	top: 852px;
+	overflow: visible;
+}
+#email_1 {
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	left: 90px;
+	top: 593px;
+	overflow: visible;
+}
+#online-registration {
+	position: absolute;
+	width: 116px;
+	height: 116px;
+	left: 74px;
+	top: 321px;
+	overflow: visible;
+}
+#Registration {
+	left: 233px;
+	top: 312px;
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#complete_the_registration_proc {
+	left: 245px;
+	top: 395px;
+	position: absolute;
+	overflow: visible;
+	width: 803px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#Confirmation {
+	left: 233px;
+	top: 590px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#send_the_successful_screenshot {
+	left: 245px;
+	top: 664px;
+	position: absolute;
+	overflow: visible;
+	width: 820px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#Verification {
+	left: 233px;
+	top: 860px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#As_soon_your_payment_is_verifi {
+	left: 245px;
+	top: 940px;
+	position: absolute;
+	overflow: visible;
+	width: 895px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 39px;
+	color: rgba(0,0,0,1);
+}
+#Trading-PNG {
+	position: absolute;
+	width: 645px;
+	height: 645px;
+	left: 1200px;
+	top: 250px;
+	overflow: visible;
+}
+#Home {
+	left: 1477px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___11.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}

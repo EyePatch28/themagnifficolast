@@ -1,0 +1,303 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 10;
+	--web-view-id: Web_1920__10;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__10;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__10 {
+	position: absolute;
+	width: 1830px;
+	height: 1900px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 10;
+	--web-view-id: Web_1920__10;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_78029_fq {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_78029_fq {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 1076.419px;
+	top: 1496px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_39745_fr {
+	position: absolute;
+	width: 1895px;
+	height: 98.07px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_39743_fs {
+	position: absolute;
+	width: 1895px;
+	height: 98.07px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1_ft {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_ft {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1913px;
+	height: 116.07px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_fu {
+	left: 1544.495px;
+	top: 37.035px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#open_a_demat_account_fv {
+	left: 1332.842px;
+	top: 35.737px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___9.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+	text-transform: capitalize;
+}
+#home_fw {
+	left: 1269.19px;
+	top: 35.737px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___11.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+	text-transform: capitalize;
+}
+#Group_39764 {
+	position: absolute;
+	width: 273.955px;
+	height: 59.694px;
+	left: 81.971px;
+	top: 15.684px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___11.html;
+	cursor: pointer;
+}
+#The_Magniffico_fy {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 73.955px;
+	top: 13.465px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+#n_0220205_174839_fz {
+	position: absolute;
+	width: 59.694px;
+	height: 59.694px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Line_8_f {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8_f {
+	overflow: visible;
+	position: absolute;
+	width: 553px;
+	height: 1px;
+	left: 705.475px;
+	top: 188.93px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#photo_2022-01-24_21-18-39 {
+	position: absolute;
+	width: 342px;
+	height: 761px;
+	left: 173px;
+	top: 396px;
+	overflow: visible;
+}
+#Reviews {
+	left: 895px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_22489 {
+	fill: rgba(0,118,222,0.369);
+}
+.Rectangle_22489 {
+	position: absolute;
+	overflow: visible;
+	width: 1895px;
+	height: 645px;
+	left: 1px;
+	top: 1255px;
+}
+#Contact_details_f {
+	left: 126.381px;
+	top: 1383.67px;
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	white-space: nowrap;
+	line-height: 104px;
+	margin-top: -27.5px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 49px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.25px;
+	text-transform: capitalize;
+}
+#for_registration_please_get_in_f {
+	left: 126.381px;
+	top: 1470.41px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.25px;
+	text-transform: capitalize;
+}
+#shegaon_maharashtra_444203_f {
+	left: 162.857px;
+	top: 1659.113px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: capitalize;
+}
+#n_1_7757061603_f {
+	left: 162.857px;
+	top: 1692.189px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#infothemagnifficocom_f {
+	left: 162.857px;
+	top: 1725.266px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
